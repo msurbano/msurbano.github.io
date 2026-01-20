@@ -3,14 +3,13 @@ secondary_name: ""
 navbar_name: "María Salas Urbano"
 
 positions:
-- name: PhD student in Computer Science
+- name: Ph.D. student in Computer Science
 - name: University of Seville
-  logo: /assets/images/badges/MIT_Social_circle.png  # Logo is optional
+  logo: /assets/images/photos/logo_us.jpg  # Logo is optional
 
 
 email: "msurbano@us.es"
 # cv_link: link-to-your-cv-file
-gscholar: xFmQpf4AAAAJ  # This is an example, replace it with your own Google Scholar ID
 github: msurbano
 twitter: msurbano9  # Do not include the '@' symbol
 # wechat_qrcode: /assets/images/etc/wechat.jpg
@@ -22,35 +21,51 @@ twitter: msurbano9  # Do not include the '@' symbol
 short_bio_text_justify: false
 short_bio: >-
   <p>
-    A <a href="https://en.wikipedia.org/wiki/Bicolor_cat" target="_blank">bicolor cat</a> is a cat with white fur combined with fur of some other colour, for example solid black, tabby, or colourpointed.
-  </p>
+    María Salas-Urbano is a Ph.D. student in Computer Science at the University of Seville, Spain.  
   <p>
-    There are various patterns of a bicolour cat. These range from the Van-patterned (colour on the crown of the head 
-    and the tail only) to a solid colour with a throat locket or medallion. Bicolour coats are found in many cat breeds, 
-    as well as being common in domestic longhair and domestic shorthair cats.
+
+  <p>
+    She is a member of the Information Systems research group in the Smart Computer Systems Research and Engineering (SCORE) 
+    Unit of Excellence. Her research focuses on process mining, specifically on providing support to process mining analysts 
+    in performing their tasks. Her contributions aim to enhance techniques and tools, with a particular emphasis on visual 
+    process analysis and the visual comparison of processes. She actively participates in the academic community in this field.
   </p>
 
-portrait_url: /assets/images/photos/portrait.jpg
+portrait_url: /assets/images/photos/foto_maria.jpg
 portrait_caption: >-
-  Photo by Manja Vitolic on Unsplash (this caption is optional, comment it out to disable).
+  Photo by María Salas Urbano.
 
 education:
-- name: Massachusetts Institute of Technology
-  logo: /assets/images/badges/MIT_Social_circle.png
+- name: Escuela Internacional de Doctorado (University of Seville)
+  logo: /assets/images/badges/eidus.png
   position: >- 
-    Department of Electrical Engineering and Computer Science <br/>
+    Department of Computer Languages and Systems <br/>
     Ph.D. Student
-  date: Sep. 2024 - present
-- name: Peking University
-  logo: /assets/images/badges/PKU_red.png
-  position: B.S. in Computer Science
-  date: Sep. 2019 - Jul. 2021
+  date: 2021 - present
+- name:  Escuela Internacional de Posgrado (University of Seville)
+  logo: /assets/images/badges/logo-eip.png
+  position: M.Sc. in Biomedical Engineering and Digital Health 
+  date: 2019 - 2021
+- name:  Escuela Técnica Superior de Ingeniería Informática (University of Seville)
+  logo: /assets/images/badges/universidad_sevilla.jpeg
+  position: B.Sc. in Health Engineering
+  date: 2015 - 2019
 
-# experience:
-# - name: Peking University
-#   logo: /assets/images/badges/PKU_red.png
-#   position: Research Intern
-#   date: Sep. 2019 - Jul. 2021
+experience:
+- name: Applied Software Engineering Research Group (ISA), University of Seville
+  logo: /assets/images/badges/logo-isa.png
+  position: Predoctoral contract
+  date: 2024 - present
+
+- name: Department of Computer Languages and Systems, University of Seville
+  logo: /assets/images/badges/universidad_sevilla.jpeg
+  position: Interim Substitute Lecturer
+  date: 2022 - 2024
+
+- name: Applied Software Engineering Research Group (ISA), University of Seville
+  logo: /assets/images/badges/logo-isa.png
+  position: Research Support Technician
+  date: 2020 - 2022
 
 awards:
 - name: Award Name 2
