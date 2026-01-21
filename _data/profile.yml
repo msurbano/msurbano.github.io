@@ -37,33 +37,33 @@ portrait_caption: >-
 
 education:
 - name: Escuela Internacional de Doctorado (University of Seville)
-  logo: /assets/images/badges/eidus.png
+  logo: /assets/images/photos/eidus.png
   position: >- 
     Department of Computer Languages and Systems <br/>
     Ph.D. Student
   date: 2021 - present
 - name:  Escuela Internacional de Posgrado (University of Seville)
-  logo: /assets/images/badges/logo-eip.png
+  logo: /assets/images/photos/logo-eip.png
   position: M.Sc. in Biomedical Engineering and Digital Health 
   date: 2019 - 2021
 - name:  Escuela Técnica Superior de Ingeniería Informática (University of Seville)
-  logo: /assets/images/badges/universidad_sevilla.jpeg
+  logo: /assets/images/photos/universidad_sevilla.jpeg
   position: B.Sc. in Health Engineering
   date: 2015 - 2019
 
 experience:
 - name: Applied Software Engineering Research Group (ISA), University of Seville
-  logo: /assets/images/badges/logo-isa.png
+  logo: /assets/images/photos/logo-isa.png
   position: Predoctoral contract
   date: 2024 - present
 
 - name: Department of Computer Languages and Systems, University of Seville
-  logo: /assets/images/badges/universidad_sevilla.jpeg
+  logo: /assets/images/photos/universidad_sevilla.jpeg
   position: Interim Substitute Lecturer
   date: 2022 - 2024
 
 - name: Applied Software Engineering Research Group (ISA), University of Seville
-  logo: /assets/images/badges/logo-isa.png
+  logo: /assets/images/photos/logo-isa.png
   position: Research Support Technician
   date: 2020 - 2022
 
