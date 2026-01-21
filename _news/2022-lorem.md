@@ -1,4 +1,4 @@
 ---
-title: Lorem ipsum sit amet, consectetur adipiscing elit, sed do eiusmod tempor 
-date: 2022-01-12 00:01:00 +0800
+title: Best Student Paper Award en el 20th Business Process Management Conference (BPM 2022) 
+date: 2022-09-11
 ---
